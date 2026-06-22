@@ -210,7 +210,7 @@ Para cada cenário, identifiquei probabilidade (A–E), impacto (1–5), a posi�
 
 ---
 
-## AULA 10 (12/06)
+## AULA 10
 
 # 11. DEBUG DA CALCULADORA
 - Usei o Debug do VS Code (Run and Debug → Node.js → breakpoints) pra acompanhar a execução e validar as mensagens.
